@@ -1,2 +1,4 @@
 # JAVA.whack-a-mole
-My First JAVA
+> FlowLayoutVersion `begin.java`  
+> GridBagLayoutVersion `start.java`  
+
